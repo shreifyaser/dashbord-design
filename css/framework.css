@@ -1,0 +1,72 @@
+/* start Box */
+.d-flxe{
+    display: flex;
+}
+.aline-center{
+    align-items: center;
+}
+/* end Box */
+/* start padding + margin */
+.p-10px{
+    padding: 10px;
+}
+.p-20px{
+    padding: 20px;
+}
+.mt-0{
+    margin-top: 0;
+}
+/* end padding + margin */
+/* start posation */
+.p-relative{
+    position: relative;
+}
+/* end posation */
+/* start color */
+.pg-white{
+    background-color: white;
+}
+.pg-blue{
+    background-color: var(--blue-color);
+}
+.pg-green{
+    background-color: var(--green-color);
+}
+.pg-orange{
+    background-color: var(--orange-color);
+}
+.pg-red{
+    background-color: var(--red-color);
+}
+.c-black{
+    color: black;
+}
+.c-blue{
+    color: blue;
+}
+.c-green{
+    color: green;
+}
+.c-orange{
+    color: orange;
+}
+.c-red{
+    color: red;
+}
+.c-orange{
+    color: var(--orange-color);
+}
+/* end color */
+/* start font */
+.txt-center{
+    text-align: center;
+}
+.fs-10px{
+    font-size: 14px;
+}
+/* end font */
+/* start border */
+.red-6px{
+    border-radius: 6px;
+}
+/* start border */
